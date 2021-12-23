@@ -1,5 +1,6 @@
 # DiscordJS-V13
 DiscordJS-V13 Series Source Code
+Series: https://www.youtube.com/playlist?list=PLE0EINI_mGo0A8vVPAGA0gJfEbc3pz8yf
 
 # Setup:
 
