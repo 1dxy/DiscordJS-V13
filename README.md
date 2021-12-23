@@ -8,9 +8,13 @@ Installing Dependencies:
 
 Setup Run Command: `npm install`
 
-# Configuration
+## Configuration
 
 How to setup `config.json`
+
+Don't know how to get a token?
+Join the support server for help: https://discord.gg/tWSkU9TAUU
+
 
 ```
 {
@@ -19,7 +23,7 @@ How to setup `config.json`
 }
 ```
 
-# Running the bot
+## Running the bot
 
 Start The Bot: `node index.js` or `node .`
 
