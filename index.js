@@ -29,4 +29,6 @@ client.on('messageCreate', async message =>{
     if(command) command.run(client, message, args) 
 })
 
-client.login(config.token)
+
+client.login(config.token) // Login your bot with your BOT_TOKEN in our file config.json
+
