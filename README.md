@@ -1,6 +1,7 @@
 # DiscordJS-V13
 DiscordJS-V13 Series Source Code
 Series: https://www.youtube.com/playlist?list=PLE0EINI_mGo0A8vVPAGA0gJfEbc3pz8yf
+Newest Episode: https://youtu.be/xDNo8ewi0D8 (Creating our Event Handler)
 
 # Setup:
 
