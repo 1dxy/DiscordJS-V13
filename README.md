@@ -10,13 +10,12 @@ Setup Run Command: `npm install`
 
 # Configuration
 
-This is what your `config.json` file should look like.
+How to setup `config.json`
 
-`{
-    "token": "BOT_TOKEN", // Add your bot token from https://discord.com/developers/applications
-    "prefix": "BOT_PREFIX" // Add your bot prefix.
-}`
+`"token": "ADD YOUR BOT TOKEN HERE",`
+`"prefix": "ADD YOUR BOT PREFIX HERE"`
 
+# Running the bot
 
 Start The Bot: `node index.js` or `node .`
 
