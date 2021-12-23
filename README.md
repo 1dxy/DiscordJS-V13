@@ -12,14 +12,15 @@ Setup Run Command: `npm install`
 
 How to setup `config.json`
 
-`{
+```
+{
 
 "token": "ADD YOUR BOT TOKEN HERE",
 
 "prefix": "ADD YOUR BOT PREFIX HERE"
 
-}`
-
+}
+```
 
 # Running the bot
 
