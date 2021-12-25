@@ -15,11 +15,15 @@ How to setup `config.json`
 Don't know how to get a token?
 Join the support server for help: https://discord.gg/tWSkU9TAUU
 
+Don't know how to get a MongoDB URI?
+Watch the newest video for tutorial.
+
 
 ```
 {
     "token": "ADD YOUR BOT TOKEN HERE",
-    "prefix": "ADD YOUR BOT PREFIX HERE"
+    "prefix": "ADD YOUR BOT PREFIX HERE",
+    "mongo_uri": "PASTE IN YOUR MONGO URI"
 }
 ```
 

@@ -1,4 +1,5 @@
 {
     "token": "BOT_TOKEN",
-    "prefix": "BOT_PREFIX"
+    "prefix": "BOT_PREFIX",
+    "mongo_uri": "MONGODB CONNECTION URI" 
 }
